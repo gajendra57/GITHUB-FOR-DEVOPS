@@ -1,0 +1,38 @@
+26 rm demo.py
+  27 cd..
+  28 rm demo.py
+  29 git restore demo.py
+  30 git init
+  31 cd .git
+  32 git status
+  33 git braqnch
+  34 git branch
+  35 git status
+  36 cd ..
+  37 git status
+  38 git branch master
+  39 git branch main
+  40 cd .git
+  41 cd ..
+  42 pyhon testing.py
+  43 python testing.py
+  44 git status
+  45 git init
+  46 git add testing.py
+  47 git status
+  48 git rm --chached testing.py
+  49 git status
+  50 git rm --cached testing.py
+  51 git status
+  52 git add testing.py
+  53 git status
+  54 git commit -m "added testing files"
+  55 git status
+  56 git branch master
+  57 git branch
+  58 git switch master
+  59 git branch
+  60 git status
+  61 rm testing.py
+  62 git restore testing.py
+  63 git status
