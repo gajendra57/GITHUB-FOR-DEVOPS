@@ -36,3 +36,12 @@
   61 rm testing.py
   62 git restore testing.py
   63 git status
+  git status
+  56 git branch master
+  57 git branch
+  58 git switch master
+  59 git branch
+  60 git status
+  61 rm testing.py
+  62 git restore testing.py
+  63 git status
