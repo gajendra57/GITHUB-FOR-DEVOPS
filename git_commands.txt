@@ -1,0 +1,15 @@
+26 rm demo.py
+  27 cd..
+  28 rm demo.py
+  29 git restore demo.py
+  30 git init
+  31 cd .git
+  32 git status
+  33 git braqnch
+  34 git branch
+  35 git status
+  58 git switch master
+  59 git branch
+  60 git status
+  61 rm testing.py
+   
